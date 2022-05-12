@@ -10,3 +10,9 @@ Group Members:
   - Chen Yu Goh
   - Roy Khoo
 </p>
+
+---
+
+<h2> PickLyfe - Application Demo </h2>
+
+[![Watch the video](https://i9.ytimg.com/vi/Cqm9fOjT4_U/mq1.jpg?sqp=COC79ZMG&rs=AOn4CLArSNGGiuN2-sNGSMsNOWG_uA1ezg)](https://youtu.be/Cqm9fOjT4_U)
