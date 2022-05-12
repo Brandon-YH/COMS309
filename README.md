@@ -1,5 +1,5 @@
 # COMS309
-A group project of 4 for COM S 309. 
+<h3> A group project of 4 for COM S 309. </h3>
 
 <h3>
 Group Members:
